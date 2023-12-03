@@ -1,0 +1,27 @@
+doll,lalka
+worsen,pogarszac
+Convenience ,wygoda 
+Entertainment ,rozrywka
+Digital literacy,kompetencje cyfrowe
+Collaborative tools,narzedzia wspolpracy
+graduate,absolwent
+well paid job,lepsza placa
+burden me,obiciazac mnie
+private limited company,spolka zoo
+flat,mieszkanie
+rent,czynsz
+wealthy man,zamozny czlowiek
+tenant ,lokator
+rental agreemen,umowa najmu
+utilities ,miedia (mieszkanie)
+amenities ,udogodnienia
+duplex,mieszkanie dwupoziomowe
+mortgage,kredyt hipoteczny
+security deposit,kaucja
+moving stairs,schody ruchome
+cheesecake,sernik
+invitation,zaproszenie
+bill,rachunek
+car crash,stluczka samochodowa
+speeding ticket,mandat za przekroczenie predkosci
+hell,pieklo
